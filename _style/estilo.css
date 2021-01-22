@@ -1,21 +1,58 @@
 *{
     margin: 0;
     padding: 0;
+    /**/
 }
 
 
-/**/
+/*estilização do meu do site*/
 #menu{
     display: inline-flex;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
-
-
-/*estilização do meu*/
 .logo-site{
-    width: 70px;
-    height: 70px;
-    margin-top: 30px;
-    margin-left: 30px;
+    width: 50px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 100px;
 }
-/**/
+.menu-site{
+    margin-top: 40px;
+    margin-left: 650px;
+    font-size: 12pt;
+}
+a{
+    text-decoration: none;
+    color: #333333;
+}
+li{
+    display: inline;
+    padding: 15px;
+}
+
+
+
+/*estilização do cabeçalho do site*/
+#cabecalho{
+    display: inline-flex;
+}
+.pequena-descricao{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 200px;
+    margin-left: 80px;
+}
+h1{
+    font-size: 55pt;
+    color: #333333;
+}
+h3{
+    font-size: 25pt;
+    color: #333333;
+    font-style: italic;
+}
+.foto-principal{
+    width: 600px;
+    height: 750px;
+    margin-top: 20px;
+    margin-left: 250px;
+}
