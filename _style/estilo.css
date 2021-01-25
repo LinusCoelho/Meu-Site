@@ -39,14 +39,14 @@ li{
 .pequena-descricao{
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 200px;
-    margin-left: 80px;
+    margin-left: 90px;
 }
 h1{
     font-size: 55pt;
     color: #333333;
 }
 h3{
-    font-size: 25pt;
+    font-size: 20pt;
     color: #333333;
     font-style: italic;
 }
@@ -55,4 +55,9 @@ h3{
     height: 750px;
     margin-top: 20px;
     margin-left: 250px;
+}
+.imagem-rede-social{
+    width: 40px;
+    height: 40px;
+    padding: 10px;
 }
