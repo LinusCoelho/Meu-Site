@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
     /**/ /*background-color: #FFFFEB;*/
 }
 
@@ -23,7 +25,6 @@
 }
 a{
     text-decoration: none;
-    color: #333333;
 }
 li{
     display: inline;
@@ -43,11 +44,9 @@ li{
 }
 h1{
     font-size: 55pt;
-    color: #333333;
 }
 h3{
     font-size: 20pt;
-    color: #333333;
     font-style: italic;
 }
 .foto-principal{
@@ -57,25 +56,46 @@ h3{
     margin-left: 250px;
 }
 .imagem-rede-social{
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     padding: 10px;
 }
 
 
 
+/*estilização sobre mim (descrição)*/
 #descricao{
     display: inline-flex;
-    color: #333333;
     font-size: 14pt;
 }
 .quem-sou{
-    margin-top: 10px;
-    margin-left: 50px;
+    margin-top: 110px;
+    margin-left: 150px;
     padding: 50px;
 }
+.sobre{
+    margin-top: 85px;
+    margin-left: 60px;
+    position: absolute;
+    font-size: 40pt;
+}
+.icon-quem-sou{
+    width: 300px;
+    height: 300px;
+}
 .texto-quem-sou{
-    width: 700px;
-    margin-top: 100px;
-    margin-left: 90px;
+    width: 600px;
+    margin-top: 110px;
+    margin-left: 80px;
+}
+input{
+    position: absolute;
+    margin-top: 40px;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #239dd1ff;
+    color: white;
+    font-size: 20px;
+    border: none;
 }
