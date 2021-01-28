@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="198mm"
+   height="201mm"
+   viewBox="0 0 198 201"
+   version="1.1"
+   id="svg37"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="icon-instagram.svg"
+   inkscape:export-filename="/home/dipper_gomes_/Documentos/Meus_Projetos/Meu-Site/_imagens/instagram.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs31" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="332.79211"
+     inkscape:cy="368.6105"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g67"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g67"
+       transform="matrix(0.35277779,0,0,0.35277779,31.155532,51.190469)"
+       style="fill:#ffff00">
+      <path
+         d="m 449.82966,140.19297 c 0,141.38672 -114.61324,256 -255.99996,256 -141.386731,0 -256.000001,-114.61328 -256.000001,-256 0,-141.3867129 114.61327,-256 256.000001,-256 141.38672,0 255.99996,114.6132871 255.99996,256 z m 0,0"
+         fill="url(#a)"
+         id="path44"
+         style="fill:none;stroke:#f8c52f;stroke-width:39.43275454;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         inkscape:export-filename="/home/dipper_gomes_/Documentos/Meus_Projetos/Meu-Site/_imagens/instagram.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         fill="#ffffff"
+         id="g52"
+         style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:13.8687;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.85742497,0,0,0.85742497,10.306147,-46.979893)">
+        <path
+           d="M 287.67706,395.29649 H 140.40362 c -56.996093,0 -103.363283,-46.36719 -103.363283,-103.36328 V 144.65977 c 0,-56.996087 46.36719,-103.363277 103.363283,-103.363277 h 147.27344 c 56.99609,0 103.36328,46.36719 103.36328,103.363277 v 147.27344 c 0,56.99609 -46.36719,103.36328 -103.36328,103.36328 z M 140.40362,71.296493 c -40.453123,0 -73.363283,32.910157 -73.363283,73.363277 v 147.27344 c 0,40.45312 32.91016,73.36328 73.363283,73.36328 h 147.27344 c 40.45312,0 73.36328,-32.91016 73.36328,-73.36328 V 144.65977 c 0,-40.45312 -32.91016,-73.363277 -73.36328,-73.363277 z m 0,0"
+           id="path46"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:13.8687;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m 214.04034,314.29649 c -52.93359,0 -96,-43.06641 -96,-96 0,-52.93359 43.06641,-96 96,-96 52.93359,0 96,43.06641 96,96 0,52.93359 -43.06641,96 -96,96 z m 0,-162 c -36.39453,0 -66,29.60547 -66,66 0,36.39453 29.60547,66 66,66 36.39453,0 66,-29.60547 66,-66 0,-36.39453 -29.60547,-66 -66,-66 z m 0,0"
+           id="path48"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:13.8687;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m 323.87237,122.19493 c 0,7.58203 -6.14844,13.73047 -13.73047,13.73047 -7.58203,0 -13.73047,-6.14844 -13.73047,-13.73047 0,-7.58203 6.14844,-13.73047 13.73047,-13.73047 7.58203,0 13.73047,6.14844 13.73047,13.73047 z m 0,0"
+           id="path50"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:13.8687;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="198mm"
+   height="201mm"
+   viewBox="0 0 198 201"
+   version="1.1"
+   id="svg37"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="icon-whatsapp.svg"
+   inkscape:export-filename="/home/dipper_gomes_/Documentos/Meus_Projetos/Meu-Site/_imagens/whatsapp.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs31">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3996">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3992" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3994" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3996"
+       id="linearGradient3998"
+       x1="3424.3371"
+       y1="623.53354"
+       x2="3717.4019"
+       y2="623.53354"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="327.18748"
+     inkscape:cy="365.13832"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g67"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g67"
+       transform="matrix(0.35277779,0,0,0.35277779,31.155532,51.190469)"
+       style="fill:#ffff00">
+      <path
+         d="m 449.82966,140.19297 c 0,141.38672 -114.61324,256 -255.99996,256 -141.386731,0 -256.000001,-114.61328 -256.000001,-256 0,-141.3867129 114.61327,-256 256.000001,-256 141.38672,0 255.99996,114.6132871 255.99996,256 z m 0,0"
+         fill="url(#a)"
+         id="path44"
+         style="fill:none;stroke:#f8c52f;stroke-width:39.43275454;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/dipper_gomes_/Documentos/Meus_Projetos/Meu-Site/_imagens/instagram.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         id="g3918"
+         transform="matrix(1.0794629,0,0,1.0794629,-3653.8374,-541.6707)"
+         style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <g
+           id="g3850"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             style="opacity:1;mix-blend-mode:normal;fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 3563.7068,475.97946 c -78.029,3.712 -139.604,68.696 -139.369,146.811 0.072,23.792 5.816,46.249 15.95,66.095 l -15.557,75.514 c -0.841,4.086 2.843,7.663 6.901,6.701 l 73.995,-17.53 c 19.011,9.471 40.364,14.939 62.962,15.284 79.753,1.219 146.2511,-62.105 148.7401,-141.829 2.662,-85.458 -67.8681,-155.131 -153.6221,-151.046 z m 88.293,227.489 c -21.669,21.669 -50.483,33.604 -81.13,33.604 -17.944,0 -35.126,-4.027 -51.066,-11.966 l -10.302,-5.134 -45.37,10.747 9.549,-46.356 -5.075,-9.943 c -8.276,-16.206 -12.472,-33.728 -12.472,-52.084 0,-30.648 11.935,-59.459 33.604,-81.13 21.476,-21.478 50.759,-33.604 81.134,-33.604 30.644,0 59.458,11.935 81.127,33.604 21.6691,21.669 33.6041,50.483 33.6041,81.127 0,30.376 -12.126,59.658 -33.6031,81.135 z"
+             id="path3846" />
+          <path
+             style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 3639.5106,654.97202 -28.384,-8.149 c -3.729,-1.069 -7.749,-0.01 -10.468,2.76 l -6.942,7.07 c -2.926,2.984 -7.366,3.941 -11.24,2.374 -13.427,-5.434 -41.672,-30.548 -48.881,-43.106 -2.084,-3.624 -1.739,-8.152 0.817,-11.462 l 6.058,-7.839 c 2.374,-3.07 2.874,-7.197 1.305,-10.747 l -11.941,-27.008 c -2.86,-6.468 -11.126,-8.352 -16.527,-3.784 -7.921,6.701 -17.32,16.88 -18.461,28.16 -2.015,19.887 6.515,44.954 38.762,75.055 37.257,34.778 67.094,39.369 86.523,34.664 11.019,-2.667 19.825,-13.365 25.379,-22.126 3.791,-5.977 0.795,-13.909 -6,-15.862 z"
+             id="path3848" />
+        </g>
+        <g
+           id="g3856"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3858"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3860"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3862"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3864"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3866"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3868"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3870"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3872"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3874"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3876"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3878"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3880"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3882"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3884"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g3886"
+           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-width:5.34636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

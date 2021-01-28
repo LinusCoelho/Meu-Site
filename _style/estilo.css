@@ -10,17 +10,16 @@
 /*estilização do meu do site*/
 #menu{
     display: inline-flex;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .logo-site{
-    width: 50px;
-    height: 40px;
+    width: 60px;
+    height: 50px;
     margin-top: 25px;
-    margin-left: 100px;
+    margin-left: 150px;
 }
 .menu-site{
     margin-top: 40px;
-    margin-left: 680px;
+    margin-left: 720px;
     font-size: 12pt;
 }
 a{
@@ -38,7 +37,6 @@ li{
     display: inline-flex;
 }
 .pequena-descricao{
-    font-family: Arial, Helvetica, sans-serif;
     margin-top: 200px;
     margin-left: 90px;
 }
@@ -56,8 +54,8 @@ h3{
     margin-left: 250px;
 }
 .imagem-rede-social{
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     padding: 10px;
 }
 
@@ -70,18 +68,20 @@ h3{
 }
 .quem-sou{
     margin-top: 110px;
-    margin-left: 150px;
-    padding: 50px;
+    margin-left: 120px;
+    padding: 30px;
 }
 .sobre{
-    margin-top: 85px;
-    margin-left: 60px;
+    margin-top: 110px;
+    margin-left: 100px;
     position: absolute;
-    font-size: 40pt;
+    font-size: 45pt;
+    background: none;
 }
 .icon-quem-sou{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
+    margin-top: -50px;
 }
 .texto-quem-sou{
     width: 600px;
@@ -94,8 +94,8 @@ input{
     width: 200px;
     height: 60px;
     border-radius: 10px;
-    background-color: #239dd1ff;
-    color: white;
+    background-color: #fbaf00ff;
+    color: #fff;
     font-size: 20px;
     border: none;
 }
