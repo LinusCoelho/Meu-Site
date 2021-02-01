@@ -25,6 +25,9 @@
 a{
     text-decoration: none;
 }
+a:hover{
+    color: #fbaf00ff;
+}
 li{
     display: inline;
     padding: 15px;
@@ -112,7 +115,7 @@ html{
     height: 40px;
     width: 40px;
     color: #fff;
-    background: #333333;
+    background: #fbaf00ff;
     border: none;
     border-radius: 50vh;
     display: none;
