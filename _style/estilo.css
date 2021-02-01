@@ -99,3 +99,21 @@ input{
     font-size: 20px;
     border: none;
 }
+
+
+
+html{
+    scroll-behavior: smooth;
+}
+#btnTop{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    height: 40px;
+    width: 40px;
+    color: #fff;
+    background: #333333;
+    border: none;
+    border-radius: 50vh;
+    display: none;
+}
