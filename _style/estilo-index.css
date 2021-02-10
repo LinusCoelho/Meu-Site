@@ -3,6 +3,7 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     color: #333333;
+    background-color: #f7f7f7;
     /**/ /*background-color: #FFFFEB;*/
 }
 
@@ -105,6 +106,7 @@ input{
 
 
 
+/*estilização para o botão voltar ao topo*/
 html{
     scroll-behavior: smooth;
 }
@@ -112,9 +114,8 @@ html{
     position: fixed;
     bottom: 20px;
     right: 20px;
-    height: 60px;
-    width: 60px;
-    color: #fff;
+    height: 45px;
+    width: 45px;
     background: #fbaf00ff;
     border: none;
     border-radius: 2vh;
@@ -122,10 +123,8 @@ html{
 }
 .btnTop{
     position: fixed;
-    bottom: 30px;
-    right: 30px;
-    height: 40px;
-    width: 40px;
-    border: none;
-    border-radius: 2vh;
+    bottom: 23px;
+    right: 23.5px;
+    height: 37px;
+    width: 37px;
 }
