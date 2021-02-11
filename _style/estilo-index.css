@@ -92,7 +92,7 @@ h3{
     margin-top: 110px;
     margin-left: 80px;
 }
-input{
+input.botao{
     position: absolute;
     margin-top: 40px;
     width: 200px;
@@ -102,6 +102,14 @@ input{
     color: #fff;
     font-size: 20px;
     border: none;
+}
+
+
+
+/*Estilização do formúlario do site*/
+.formulario{
+    text-align: center;
+
 }
 
 
