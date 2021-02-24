@@ -62,14 +62,14 @@
        x="76.726639"
        y="71.604691" />
     <rect
-       style="opacity:0.978995;fill:#fbaf00;fill-rule:evenodd;stroke:#333333;stroke-width:1.27055;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       style="opacity:0.978995;fill:#333333;fill-rule:evenodd;stroke:#333333;stroke-width:1.27055;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
        id="rect945"
        width="56.286781"
        height="54.673023"
        x="9.0757484"
        y="71.75766" />
     <rect
-       style="opacity:0.978995;fill-rule:evenodd;stroke:#333333;stroke-width:3.22077;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill-rule:evenodd;stroke:#fbaf00;stroke-width:3.22077;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:none;fill-opacity:1"
        id="rect10"
        width="20.013895"
        height="1.2373688"
@@ -77,7 +77,7 @@
        y="84.614372"
        transform="matrix(0.99199047,-0.12631277,0.04204118,0.99911588,0,0)" />
     <rect
-       style="opacity:0.978995;fill-rule:evenodd;stroke:#333333;stroke-width:3.21931;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill-rule:evenodd;stroke:#fbaf00;stroke-width:3.21931;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:none;fill-opacity:1"
        id="rect10-3"
        width="39.093731"
        height="1.126971"
@@ -85,7 +85,7 @@
        y="-37.745361"
        transform="matrix(-0.11001877,0.99392951,-0.98322162,-0.18241503,0,0)" />
     <rect
-       style="opacity:0.978995;fill:#ffff00;fill-rule:evenodd;stroke:#333333;stroke-width:3.21517;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#fbaf00;stroke-width:3.21517;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
        id="rect10-6"
        width="34.606331"
        height="1.239156"
@@ -93,7 +93,7 @@
        y="113.41197"
        transform="matrix(0.97814722,-0.20791347,0.22171367,0.97511181,0,0)" />
     <rect
-       style="opacity:0.978995;fill-rule:evenodd;stroke:#333333;stroke-width:3.22645;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill-rule:evenodd;stroke:#fbaf00;stroke-width:3.22645;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:none;fill-opacity:1"
        id="rect10-7"
        width="19.759352"
        height="1.1953088"
@@ -101,7 +101,7 @@
        y="-31.222342"
        transform="matrix(0.17230222,0.98504413,-0.99853809,0.05405265,0,0)" />
     <rect
-       style="opacity:0.978995;fill-rule:evenodd;stroke:#333333;stroke-width:3.215;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill-rule:evenodd;stroke:#fbaf00;stroke-width:3.215;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:none;fill-opacity:1"
        id="rect10-5"
        width="15.059478"
        height="1.2808944"
@@ -109,7 +109,7 @@
        y="95.562729" />
     <text
        xml:space="preserve"
-       style="font-size:55.5212px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';stroke-width:1.38802"
+       style="font-size:55.5212px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';stroke-width:1.38802;stroke:#333333;stroke-opacity:1;"
        x="86.862038"
        y="115.3519"
        id="text1010"
@@ -118,6 +118,6 @@
          id="tspan1008"
          x="86.862038"
          y="115.3519"
-         style="fill:#333333;fill-opacity:1;stroke-width:1.38802">Gustavo</tspan></text>
+         style="fill:#333333;fill-opacity:1;stroke-width:1.38802;stroke:#333333;stroke-opacity:1;">Gustavo</tspan></text>
   </g>
 </svg>
