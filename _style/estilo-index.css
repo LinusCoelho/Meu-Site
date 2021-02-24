@@ -107,7 +107,17 @@ input.botao{
 
 
 /*Estilização do formúlario do site*/
-
+.formulario-de-contato{
+    display: inline-flex;
+}
+h1.infor, h4.me-siga{
+    font-size: 14pt;
+    padding: 10px;
+}
+.icon-informacao{
+    width: 15px;
+    height: 15px;
+}
 
 
 
