@@ -107,16 +107,33 @@ input.botao{
 
 
 /*Estilização do formúlario do site*/
+h1.projeto-pergunta{
+    font-size: 35pt;
+    text-align: center;
+    padding: 40px;
+}
+h2.contrate-chamada{
+    font-size: 30pt;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
 .formulario-de-contato{
     display: inline-flex;
 }
 h1.infor, h4.me-siga{
-    font-size: 14pt;
+    font-size: 20pt;
     padding: 10px;
 }
 .icon-informacao{
-    width: 15px;
-    height: 15px;
+    width: 35px;
+    height: 35px;
+    padding: 3px;
+}
+li{
+    font-size: 14pt;
 }
 
 
