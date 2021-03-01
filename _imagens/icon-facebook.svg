@@ -12,7 +12,7 @@
    viewBox="0 0 198 201"
    version="1.1"
    id="svg37"
-   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="icon-facebook.svg">
   <defs
      id="defs31" />
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="-111.8698"
-     inkscape:cy="368.61049"
+     inkscape:cx="32.981886"
+     inkscape:cy="360.52927"
      inkscape:document-units="mm"
      inkscape:current-layer="g67"
      inkscape:document-rotation="0"
@@ -55,71 +55,63 @@
        id="g67"
        transform="matrix(0.35277779,0,0,0.35277779,31.155532,51.190469)"
        style="fill:#ffff00">
-      <path
-         d="m 449.82966,140.19297 c 0,141.38672 -114.61324,256 -255.99996,256 -141.386731,0 -256.000001,-114.61328 -256.000001,-256 0,-141.3867129 114.61327,-256 256.000001,-256 141.38672,0 255.99996,114.6132871 255.99996,256 z m 0,0"
-         fill="url(#a)"
-         id="path44"
-         style="fill:none;stroke:#f8c52f;stroke-width:38.37826639;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-         inkscape:export-filename="/home/dipper_gomes_/Documentos/Meus_Projetos/Meu-Site/_imagens/facebook.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
       <g
          id="g3665"
          transform="matrix(2.0142657,0,0,2.0142657,37.584096,-16.052613)"
-         style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none">
+         style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none">
         <g
            id="g3609"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none">
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none">
           <path
              id="f_1_"
-             style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none"
+             style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none"
              d="M 89.584,155.139 V 84.378 h 23.742 l 3.562,-27.585 H 89.584 V 39.184 c 0,-7.984 2.208,-13.425 13.67,-13.425 l 14.595,-0.006 V 1.08 C 115.325,0.752 106.661,0 96.577,0 75.52,0 61.104,12.853 61.104,36.452 V 56.793 H 37.29 v 27.585 h 23.814 v 70.761 z" />
         </g>
         <g
            id="g3611"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3613"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3615"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3617"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3619"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3621"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3623"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3625"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3627"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3629"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3631"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3633"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3635"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3637"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
         <g
            id="g3639"
-           style="fill:#f8c52f;fill-opacity:1;stroke:#f8c52f;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:5.50389098;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
     </g>
   </g>
