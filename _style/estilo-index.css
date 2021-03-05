@@ -127,7 +127,7 @@ h2.contrate-chamada{
     display: inline-flex;
 }
 h1.infor, h4.me-siga{
-    font-size: 20pt;
+    font-size: 18pt;
     padding: 10px;
 }
 .icon-informacao{
@@ -172,7 +172,7 @@ input.e-mail{
     background-color: #fff;
 }
 div.assunto{
-    margin-left: 28.5%;
+    margin-left: 29%;
     margin-top: -98px;
     position: absolute;
 }
