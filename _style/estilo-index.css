@@ -218,9 +218,9 @@ footer#rodape{
 }
 h1.copy{
     margin-left: 42%;
-    color: #777777;
+    color: #777;
     font-size: 14pt;
-    margin-top: 80px;
+    margin-top: 60px;
 }
 
 
@@ -237,7 +237,6 @@ html{
     width: 45px;
     background: #fbaf00ff;
     border: none;
-    border-radius: 2vh;
     display: none;
 }
 .btnTop{
