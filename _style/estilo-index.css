@@ -75,7 +75,7 @@ h3{
 }
 .quem-sou{
     margin-top: 110px;
-    margin-left: 120px;
+    margin-left: 90px;
     padding: 30px;
 }
 .sobre{
@@ -93,7 +93,7 @@ h3{
 .texto-quem-sou{
     width: 600px;
     margin-top: 110px;
-    margin-left: 80px;
+    margin-left: 100px;
 }
 input.botao{
     position: absolute;
@@ -191,6 +191,7 @@ textarea.mensagem{
     margin: 10px 0px 20px 0px;
     padding: 10px;
     width: 700px;
+    max-width: 700px;
     height: 150px;
     font-size: 12pt;
     border-radius: 1vh;
@@ -199,14 +200,27 @@ textarea.mensagem{
     background-color: #fff;
 }
 input.botao-enviar{
-    margin: -10px 0px 20px 0px;
+    margin: -10px 0px 40px 0px;
     padding: 10px;
     width: 190px;
     font-size: 14pt;
     border-radius: 1vh;
     border:none;
-    background: #ff8a05;
+    background: #fbaf00ff;
     color: #fff;
+}
+
+
+
+footer#rodape{
+    padding: 40px;
+    background: #333;
+}
+h1.copy{
+    margin-left: 42%;
+    color: #777777;
+    font-size: 14pt;
+    margin-top: 80px;
 }
 
 
