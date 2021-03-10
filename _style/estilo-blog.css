@@ -10,33 +10,3 @@
     margin-top: -150px;
     margin-left: 32%;
 }
-
-
-/*estilização do meu do site*/
-#menu{
-    display: inline-flex;
-    font-size: 14pt;
-}
-
-.menu-site{
-    position: absolute;
-    margin-top: -15%;
-    margin-left: 500px;
-}
-a{
-    text-decoration: none;
-}
-a:hover{
-    color: #fbaf00ff;
-}
-li{
-    display: inline;
-    padding: 15px;
-}
-
-
-
-h2{
-    text-align: center;
-    margin-top: 150px;
-}
