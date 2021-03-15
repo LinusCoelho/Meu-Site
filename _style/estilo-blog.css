@@ -1,12 +1,89 @@
 *{
     padding: 0;
     margin: 0;
+}
+body{
     color: #333;
     font-family: Arial, Helvetica, sans-serif;
-}
+    font-size: 14pt;
+} /**//**/
+
 .logo-site{
     width: 500px;
     height: 60px;
     margin-top: 5%;
     margin-left: 33%;
+}
+
+
+
+/*estilização do menu de navegação do site*/
+div#menu-bar{
+    display: inline-flex;
+    margin-left: 27%;
+}
+
+
+div.redes-sociais{
+    margin-left: -22%;
+    position: absolute;
+}
+img.network{
+    width: 33px;
+    height: 33px;
+}
+
+
+div.menu-de-navegacao{
+    margin-left: 10%;
+    position: absolute;
+}
+li{
+    display: inline;
+    padding: 0px 10px 0px;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+
+
+div.caixa-de-busca{
+    margin-left: 45%;
+    position: absolute;
+    background: #fbaf00ff;
+    border-radius: 30px;
+}
+.busca_btn{
+    color: #333;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background: #333;
+    text-align: center;
+    line-height: 40px;
+    transform: all 0.8s ease;
+}
+.busca_txt{
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    font-size: 14pt;
+    transition: 0.4s;
+    line-height: 40px;
+    width: 0;
+    color: #333;
+}
+.caixa-de-busca:hover > .busca_txt{
+    width: 240px;
+    padding: 0 6px;
+}
+.caixa-de-busca:hover > .busca_btn{
+    background: white;
+}
+::placeholder{
+    color: black;
 }
