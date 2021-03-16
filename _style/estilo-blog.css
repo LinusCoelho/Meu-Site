@@ -21,11 +21,12 @@ body{
 div#menu-bar{
     display: inline-flex;
     margin-left: 27%;
+    margin-top: 5%;
 }
 
 
 div.redes-sociais{
-    margin-left: -22%;
+    margin-left: -18%;
     position: absolute;
 }
 img.network{
@@ -49,10 +50,11 @@ a{
 
 
 div.caixa-de-busca{
+    box-sizing: border-box;
     margin-left: 45%;
     position: absolute;
     background: #fbaf00ff;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 .busca_btn{
     color: #333;
@@ -60,7 +62,7 @@ div.caixa-de-busca{
     width: 40px;
     height: 40px;
     border-radius: 100%;
-    background: #333;
+    background: #fbaf00ff;
     text-align: center;
     line-height: 40px;
     transform: all 0.8s ease;
