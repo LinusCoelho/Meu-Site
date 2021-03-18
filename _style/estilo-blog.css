@@ -26,7 +26,7 @@ div#menu-bar{
 
 
 div.redes-sociais{
-    margin-left: 45%;
+    margin-left: 55%;
     position: absolute;
 }
 img.network{
@@ -88,4 +88,22 @@ div.caixa-de-busca{
 }
 ::placeholder{
     color:#333;
+}
+
+
+
+/*
+aqui se inicia a estilização do corpo do blog, o que aparentemente vai dar um pouco de trabalho
+*/
+div.varios-containers{
+    display: inline-flex;
+    margin: 15% 0 0 -20%;
+    position: absolute;
+}
+
+
+
+div.postagem-mais-recentes{
+    display: inline-flex;
+    margin-top: 25%;
 }
